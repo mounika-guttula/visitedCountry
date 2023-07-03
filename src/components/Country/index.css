@@ -1,0 +1,25 @@
+.countries-bg-cont {
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  width: 90vw;
+  justify-content: space-between;
+}
+
+.heading {
+  color: #f8fafc;
+  font-size: 20px;
+}
+
+.para {
+  color: #cbd5e1;
+  margin-right: 15px;
+}
+
+.button {
+  background-color: #3b82f6;
+  height: 50px;
+  width: 80px;
+  color: #f8fafc;
+  border-style: none;
+}

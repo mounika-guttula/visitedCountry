@@ -1,0 +1,19 @@
+.list-visited {
+  list-style-type: none;
+  margin: 15px;
+}
+
+.img {
+  height: 150px;
+}
+
+.img-remove-cont {
+  display: flex;
+  justify-content: space-between;
+}
+
+.deleteBtn {
+  color: #ffffff;
+  background-color: transparent;
+  border: 0px;
+}
